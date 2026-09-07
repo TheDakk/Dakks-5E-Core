@@ -1,3 +1,5 @@
-2026/09/07-01:30:18.019 3e90 Recovering log #7
-2026/09/07-01:30:18.025 3e90 Delete type=0 #7
-2026/09/07-01:30:18.026 3e90 Delete type=3 #6
+2026/09/07-15:29:02.353 1cf4 Recovering log #9
+2026/09/07-15:29:02.353 1cf4 Level-0 table #11: started
+2026/09/07-15:29:02.360 1cf4 Level-0 table #11: 86630 bytes OK
+2026/09/07-15:29:02.367 1cf4 Delete type=0 #9
+2026/09/07-15:29:02.367 1cf4 Delete type=3 #8

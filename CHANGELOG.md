@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 (2026-09-07)
+
+Compendium sidebar: Spells and Items are now one folder, "Items & Spells", matching Dakk's D&D 2e Core and the D&D 5e system's own tree. No data changes.
+
 ## 0.1.2 (2026-09-07)
 
 Compendium sidebar made consistent with Dakk's D&D 2e Core: under "Dakk's Ultimate Tokens" > "D&D 5e (2014)" the packs now sit in Creatures, Spells and Items subfolders with those plain labels (the SRD note stays in this changelog). No data changes.
