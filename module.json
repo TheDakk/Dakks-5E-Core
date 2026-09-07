@@ -2,7 +2,7 @@
   "id": "dakks-5e",
   "title": "Dakk's D&D 5e Core (2014)",
   "description": "<p>The D&amp;D 5e system's 2014 SRD compendia, document for document, with Dakk's Ultimate Tokens as every portrait, token and icon: Monsters, Spells and Items (SRD 5.1). Stats are the SRD's exactly as the dnd5e system ships them; only the art changes. Requires the dnd5e system and the Dakk's Ultimate Tokens art module. The 2024 rules will be a separate module.</p><p>SRD content is used under the Creative Commons Attribution 4.0 licence; see LICENSE.md.</p>",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Nick"
@@ -74,7 +74,7 @@
   ],
   "url": "https://github.com/TheDakk/Dakks-5E-Core",
   "manifest": "https://github.com/TheDakk/Dakks-5E-Core/releases/latest/download/module.json",
-  "download": "https://github.com/TheDakk/Dakks-5E-Core/releases/download/v0.1.4/dakks-5e-0.1.4.zip",
+  "download": "https://github.com/TheDakk/Dakks-5E-Core/releases/download/v1.0.0/dakks-5e-1.0.0.zip",
   "license": "LICENSE.md",
   "packFolders": [
     {
