@@ -2,7 +2,7 @@
 
 ## 0.1.3 (2026-09-07)
 
-Compendium sidebar: Spells and Items are now one folder, "Items & Spells", matching Dakk's D&D 2e Core and the D&D 5e system's own tree. No data changes.
+Compendium sidebar: the three packs (Creatures, Spells, Items) sit under "Dakk's Ultimate Tokens" > "D&D 5e (2014)" with no further folders; the same tree holds Dakk's D&D 2e Core when it is installed. Creature types are folders inside the Creatures pack. No data changes.
 
 ## 0.1.2 (2026-09-07)
 

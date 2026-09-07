@@ -84,28 +84,12 @@
           "name": "D&D 5e (2014)",
           "sorting": "m",
           "color": "#8a1c1c",
-          "packs": [],
-          "folders": [
-            {
-              "name": "Items & Spells",
-              "sorting": "m",
-              "color": "#8a1c1c",
-              "packs": [
-                "spells",
-                "items"
-              ],
-              "folders": []
-            },
-            {
-              "name": "Creatures",
-              "sorting": "m",
-              "color": "#8a1c1c",
-              "packs": [
-                "monsters"
-              ],
-              "folders": []
-            }
-          ]
+          "packs": [
+            "monsters",
+            "spells",
+            "items"
+          ],
+          "folders": []
         }
       ]
     }
