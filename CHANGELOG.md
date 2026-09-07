@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 (2026-09-07)
+
+Compendium sidebar made consistent with Dakk's D&D 2e Core: under "Dakk's Ultimate Tokens" > "D&D 5e (2014)" the packs now sit in Creatures, Spells and Items subfolders with those plain labels (the SRD note stays in this changelog). No data changes.
+
 ## 0.1.1 (2026-09-07)
 
 Compendium sidebar: the three packs now sit in "Dakk's Ultimate Tokens" > "D&D 5e (2014)", the same tree the token module and Dakk's D&D 2e Core use, and their labels are simply Monsters (SRD), Spells (SRD) and Items (SRD). No data changes.
