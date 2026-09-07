@@ -1,5 +1,7 @@
 # Dakk's D&D 5e Core (2014)
 
+![Dakk's Ultimate Tokens](https://raw.githubusercontent.com/TheDakk/Dakks-Ultimate-Tokens/main/art/cover.webp)
+
 The D&D 5e system's SRD compendia, document for document, with Dakk's Ultimate Tokens as
 every portrait, token and icon. Stats are the SRD's exactly as the dnd5e system ships
 them; only the art changes. This is the 2014 rules (SRD 5.1); the 2024 rules will be a
