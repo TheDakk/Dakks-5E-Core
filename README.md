@@ -9,10 +9,11 @@ separate module.
 
 ## What you need
 
-1. Foundry VTT 13 or later.
-2. The **D&D 5e** game system, version 5.3.0 or later (verified on 5.3.3).
-3. The **Dakk's Ultimate Tokens** art module, 3.5.0 or later (the images live there; this
-   module points at them). Foundry offers to install it when you install this one:
+1. Foundry VTT 13 or later (verified on 14).
+2. The **D&D 5e** game system, version 5.3.0 or later (verified on 5.3.3):
+   `https://github.com/foundryvtt/dnd5e/releases/latest/download/system.json`
+3. The **Dakk's Ultimate Tokens** art module, 3.5.0 or later (the images live there; this module
+   points at them). Foundry offers to install it with this one:
    `https://github.com/TheDakk/Dakks-Ultimate-Tokens/releases/latest/download/module.json`
 
 ## Install
