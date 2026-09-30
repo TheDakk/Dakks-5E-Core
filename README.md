@@ -19,9 +19,18 @@ separate module.
 
 In Foundry, **Add-on Modules → Install Module**, paste
 `https://github.com/TheDakk/Dakks-5E-Core/releases/latest/download/module.json`.
-Enable both modules in your world. If the module unchecks itself when you enable it, Foundry
-has found a dependency below its minimum: check that the D&D 5e system is 5.3.0 or later and
-the art module 3.5.0 or later, then try again.
+Or download the release zip and unpack it into `Data/modules/dakks-5e`; with the GitHub CLI,
+in PowerShell, Foundry closed:
+
+```powershell
+$zip = "$env:TEMP\dakks-5e.zip"
+gh release download -R TheDakk/Dakks-5E-Core -p "dakks-5e-*.zip" -O $zip --clobber
+Expand-Archive $zip "$env:LOCALAPPDATA\FoundryVTT\Data\modules\dakks-5e" -Force
+```
+
+Enable it in your world; Foundry offers to enable the art module with it. If the module unchecks
+itself when you enable it, Foundry has found a dependency below its minimum: check that
+the D&D 5e system is 5.3.0 or later and the art module 3.5.0 or later, then try again.
 
 ## What is inside
 
