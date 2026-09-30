@@ -8,6 +8,7 @@
       "name": "TheDakk"
     }
   ],
+  "license": "LICENSE.md",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -30,7 +31,8 @@
         "manifest": "https://github.com/TheDakk/Dakks-Ultimate-Tokens/releases/latest/download/module.json",
         "compatibility": {
           "minimum": "3.5.0"
-        }
+        },
+        "reason": "Every image in these compendia points at Dakk's Ultimate Tokens."
       }
     ]
   },
@@ -72,10 +74,6 @@
       "banner": "modules/dakks-ultimate-tokens/art/banners/items.webp"
     }
   ],
-  "url": "https://github.com/TheDakk/Dakks-5E-Core",
-  "manifest": "https://github.com/TheDakk/Dakks-5E-Core/releases/latest/download/module.json",
-  "download": "https://github.com/TheDakk/Dakks-5E-Core/releases/download/v1.1.0/dakks-5e-1.1.0.zip",
-  "license": "LICENSE.md",
   "packFolders": [
     {
       "name": "Dakk's Ultimate Tokens",
@@ -107,5 +105,8 @@
       "type": "icon",
       "url": "https://raw.githubusercontent.com/TheDakk/Dakks-Ultimate-Tokens/main/art/icon.png"
     }
-  ]
+  ],
+  "url": "https://github.com/TheDakk/Dakks-5E-Core",
+  "manifest": "https://github.com/TheDakk/Dakks-5E-Core/releases/latest/download/module.json",
+  "download": "https://github.com/TheDakk/Dakks-5E-Core/releases/download/v1.1.0/dakks-5e-1.1.0.zip"
 }
