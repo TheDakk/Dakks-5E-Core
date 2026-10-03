@@ -12,7 +12,7 @@ separate module.
 1. Foundry VTT 13 or later (verified on 14).
 2. The **D&D 5e** game system, version 5.3.0 or later (verified on 5.3.3):
    `https://github.com/foundryvtt/dnd5e/releases/latest/download/system.json`
-3. The **Dakk's Ultimate Tokens** art module, 3.5.0 or later (the images live there; this module
+3. The **Dakk's Ultimate Tokens** art module, 3.7.0 or later (the images live there; this module
    points at them). Foundry offers to install it with this one:
    `https://github.com/TheDakk/Dakks-Ultimate-Tokens/releases/latest/download/module.json`
 
@@ -31,15 +31,28 @@ Expand-Archive $zip "$env:LOCALAPPDATA\FoundryVTT\Data\modules\dakks-5e" -Force
 
 Enable it in your world; Foundry offers to enable the art module with it. If the module unchecks
 itself when you enable it, Foundry has found a dependency below its minimum: check that
-the D&D 5e system is 5.3.0 or later and the art module 3.5.0 or later, then try again.
+the D&D 5e system is 5.3.0 or later and the art module 3.7.0 or later, then try again.
 
 ## What is inside
 
+In the sidebar, under Dakk's Ultimate Tokens, D&D 5e (2014): Creatures, Spells and Items at the top; Races,
+Classes, Subclasses, Class Features and Backgrounds in Classes & Origins; Monster Features, Trade Goods,
+Tables and Rules in Reference.
+
 | Compendium | Documents | With Dakk's art |
 |---|---:|---:|
-| Creatures | 331 + 54 female/male twins | 329 + 54 |
-| Spells | 319 | 188 |
-| Items | 872 | 53 |
+| Creatures | 331 + 54 female/male twins | 331 + 54 |
+| Spells | 319 | 319 |
+| Items | 872 | 872 |
+| Races | 34 | 34 |
+| Classes | 12 | 12 |
+| Subclasses | 12 | 12 |
+| Class Features | 235 | 234 |
+| Backgrounds | 3 | 3 |
+| Monster Features | 252 | 250 |
+| Trade Goods | 23 | 23 |
+| Tables | 31 | 31 |
+| Rules | 20 | text only |
 
 Documents without a matching image keep whatever the system source carries. Drag a monster
 onto a scene and its token is Dakk's painting; the actor sheet shows the same art. Where the art

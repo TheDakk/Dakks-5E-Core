@@ -1,0 +1,5 @@
+2026/10/03-00:16:11.074 a4dc Delete type=3 #1
+2026/10/03-00:16:11.095 cd08 Level-0 table #5: started
+2026/10/03-00:16:11.099 cd08 Level-0 table #5: 47946 bytes OK
+2026/10/03-00:16:11.102 cd08 Delete type=0 #3
+2026/10/03-00:16:11.102 cd08 Manual compaction at level-0 from '!folders!1GCaQEaMIbogg5ty' @ 72057594037927935 : 1 .. '!items.effects!PqxZgcJzp1VVgP8t.8oJGOvksocvoVzVE' @ 0 : 0; will stop at (end)
